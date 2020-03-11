@@ -1,0 +1,13 @@
+{
+  "name": "mongo-cloud-backup",
+  "version": "1.0.3",
+  "description": "Package for backing up CloudMongoDB databases.",
+  "keywords": ["MongoDB", "mongo atlas", "mongo cloud", "mongocloud backup", "backup mongodb", "backup replicaset", "replicaset cloud mongo", "download mongo database"],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "author": "Anderson de Castro",
+  "license": "ISC"
+}
